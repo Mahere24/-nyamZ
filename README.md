@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
-- 📫 You can reach me @maherel@zimstat.co.zw
+  
 
 
 <!---
